@@ -1,0 +1,59 @@
+.logo {
+  padding: 10px;
+  margin: 120px auto auto auto;
+}
+#search-box {
+  margin: 5px auto auto;
+  width: 480px; height: 30px;
+  border-radius: 0;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d0d0d0;
+}
+#search-box:hover {
+  border-color: #a0a0a0;
+}
+#search-box:focus {
+  border-color: dodgerblue;
+}
+button {
+  width: 150px;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 3px; border-style: solid; border-color: #f3f3f3;
+  background-color: #F3F3F3;
+  font-weight: bold;; color: #707070;
+
+
+}
+button:hover {
+  border-color: #d0d0d0; border-style: solid; border-width: 1px;
+  color: black;
+}
+ul{
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+ul a {
+  color: #505050;
+  text-decoration: none;
+
+}
+
+#sign-in {
+  color: white;
+  background-color: dodgerblue;
+  border-radius: 2px;
+  width: 60px; height: 25px;
+  float: right;
+  font-weight: bold;
+  text-align: center;
+
+}
+li {
+    display: inline;
+    padding: 10px;
+    float: right;
+    margin-right: 5px;
+}
